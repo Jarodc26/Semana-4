@@ -3,5 +3,5 @@
 varCelcius = int(input("Ingresar grados celcius "))
 varFahrenheit = ((1.8) * varCelcius + 32)
 
-print("La convercion de", varCelcius,
-      "grados celcius a fahrenheit es de", varFahrenheit)
+print(varCelcius,
+      "grados celcius equivale a", varFahrenheit, "grados fahrenheit")
